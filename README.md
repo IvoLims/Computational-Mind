@@ -2,7 +2,7 @@
 
 [Web site](http://computationalthinking4all.epl.di.uminho.pt:50560)
 
-[Relatório Projeto](https://www.overleaf.com/4854417272mcynrchgjxzh)
+[Relatório Projeto](https://www.overleaf.com/read/tkzkkmnnmvfh)
 
 [Mockups](https://www.figma.com/team_invite/redeem/rBPPwyYcJXjd2Eq8u68FtV)
 
